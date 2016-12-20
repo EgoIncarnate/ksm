@@ -2,7 +2,7 @@ title: ksm
 description: A really simple and lightweight x64 hypervisor written in C for Windows (Intel processors).  Supports VMFUNC, EPTP switching, #VE EPT Violation and IDT shadowing.  VMFUNC backward compatibility also supported.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
